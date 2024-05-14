@@ -19,6 +19,12 @@ Entrega da sprint 4 | DISRUPTIVE ARCHITECTURES: IT, IOB & IA
 > <BR>
 > **Deverá ser usado URL:** <BR>
 > URL: http://127.0.0.1:5000 <BR>
+> <BR>
+> **Rodando API** <BR>
+> Abrir a pasta do projeto no terminal; <BR>
+> rodar o comando: python app.py <BR>
+![image](https://github.com/luiznsc/cotco_ai_api/assets/111553441/68d6b5de-a44c-426e-bcbc-bb71854ab766)
+
   ---
   
 ### :page_with_curl:  Resultado da análise
